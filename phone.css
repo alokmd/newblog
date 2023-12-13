@@ -1,0 +1,137 @@
+.article{
+  font-size: 30px;
+  position: relative;
+  top: 60px;
+}
+.article3{
+    font-size: 25px;
+    position: relative;
+    top: 65px;
+    width: 200%;
+}
+.articlep{
+    font-size: 18px;
+    /* position: relative; */
+    top:68px;
+}
+.logo img{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    top: -13px;
+    left: 9px;
+}
+.logo {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    top: 30px;
+    left: 9px;
+}
+.navbar{
+ width: 1000px;
+ font-size: 10px;
+}
+.text1,.text2,.text3,.text4{
+
+    font-size: 20px;
+    position: relative;
+    left: 25px;
+}
+.article3::after{
+    content:"";
+    position: absolute;
+    height: 100%;
+    width: 31%;
+    border-left:1px solid #212428;
+    left:0px;
+    animation: typing 3s steps(1000) infinite;
+    background: #212428;
+}
+.find{
+    position: relative;
+    top:100px;
+     left: 69px;
+}
+.logo1 img{
+    position: relative;
+    top:120px;
+    left: -9px;
+}
+.logo2 img{
+    position: relative;
+    top:120px;
+    left: -46px;
+}
+.title{
+    font-size: 35px;
+    padding-top: 165px;
+}
+
+.contactus {
+    width: 350px;
+    position: relative;
+    left:-459px;
+    height: 465px;
+}
+.skil{
+    position: relative;
+    top: 239px;
+     left: 139px;
+}
+
+.logo3,.logo4,.logo5{
+    position: relative;
+    top: 111px;
+
+}
+.h2{
+    position: relative;
+    top: 264px;
+    left: 10px;
+}
+.para{
+    position: relative;
+    bottom: 79px;
+}
+.para p{
+    position: relative;
+    top: 80px;
+    font-size: 20px;
+}
+.abouts{
+    width: 341px;
+    position: relative;
+    left: 26px;
+    top: 272px;
+}
+.logo1 img,.logo2 img{
+    position: relative;
+    display: block;
+}
+.logo3 img,.logo4 img,.logo5 img{
+    right: 285px;
+    position: relative;
+    top: 152px;
+}
+.logo2{
+    position: relative;
+    width :10px;
+    left: 30px;
+}
+.contactus form{
+    margin-left: 64px;
+    font-size: 20px;
+}
+#fname{
+    width: 312px;
+}
+#phone{
+    width: 312px;
+}
+#email{
+    width: 312px;
+}
+#text{
+    width: 312px;
+}
